@@ -1,2 +1,1 @@
-# Lumu
-Lumu Test
+# Tests
